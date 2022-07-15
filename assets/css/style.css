@@ -50,3 +50,11 @@ input{
   margin-top: 1.313rem;
   margin-bottom: 1.313rem;;
 }
+
+.style_button{
+  background-color: #F8F9FA;
+  border-color: #DDDDDD;
+  border-radius: 5px;
+  border-width: 1px;
+  text-align: center;
+}
