@@ -1,0 +1,52 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+@media screen and (max-width: 600px) {
+  .cupons {
+    padding-right: 1.3125rem;
+    padding-left: 1.3125rem;
+  }
+}
+
+.location{
+  font-size: 0.813rem !important;
+}
+
+.line{
+  color: #707070A0;
+}
+
+input{
+  font-weight: 300 !important;
+  margin-bottom: 0.875rem;
+}
+
+/* COLOR REPLACEMENTS */
+.bg-success{
+  background-color: #28a745 !important;
+}
+
+.text-success{
+  color: #28a745 !important;
+}
+
+.text-secondary{
+  color: #707070 !important;
+}
+
+/* CUSTOM */
+.fw-medium{
+  font-weight: 500;
+}
+
+.p-3mid{
+  padding: 1.313rem;
+}
+
+.my-3mid {
+  margin-top: 1.313rem;
+  margin-bottom: 1.313rem;;
+}
